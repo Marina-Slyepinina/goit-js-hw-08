@@ -1,0 +1,35 @@
+body {
+    font-family: "Montserrat", sans-serif;
+}
+
+p {
+    margin-bottom: 16px;
+}
+
+.widget {
+    width: 345px;
+    margin: 0 auto;
+    padding: 100px 88px;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.04em;
+    color: #2e2f42;
+       
+}
+
+button {
+    font-family: "Montserrat", sans-serif;
+    border-radius: 8px;
+    padding: 8px 16px;
+    width: 148px;
+    height: 40px;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.04em;
+    background: #4e75ff;
+    
+    font-weight: 500;
+    color: #fff;
+    border: none;
+}
